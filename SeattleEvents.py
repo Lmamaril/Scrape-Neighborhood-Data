@@ -9,7 +9,7 @@ stores data in to a csv
 
 Columns of the csv = ['eventNames', 'categories', 'eventDates', 'venues', 'neighborhoods', 'prices']
 
-NOTE: Number of Dates are inconsistent with how many events availabe. Needs revision.
+Keep in mind: Not all events have an assigned date
 """
 max = 130
 
